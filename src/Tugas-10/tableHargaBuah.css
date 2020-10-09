@@ -1,0 +1,28 @@
+.harga-buah{
+    margin-top:40px;
+}
+
+table{
+    width: 100%;
+    color: #000;
+    border: 1px solid rgb(37, 37, 37);
+    background-color: #fff;
+}
+
+h1{
+    margin-bottom: 15px;
+}
+
+th{
+    background-color: rgb(170,170,170);
+    padding: 5px;
+}
+
+tr{
+    background-color: rgb(255,127,80);
+}
+
+td{
+    text-align: center;
+    padding: 8px;
+}
